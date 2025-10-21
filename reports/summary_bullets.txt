@@ -1,0 +1,4 @@
+- Best model: **sig_rv21** (RMSE ≈ 1.2764, N=1128).
+- By tenor, lowest MAE: **(-0.001, 7.0]**; highest: **(7.0, 30.0]**.
+- By moneyness, easiest (lowest MAE): **(0.8, 0.9]**; hardest: **(0.9, 1.0]**.
+- Median |error| ≈ 0.7396; 90th pct ≈ 2.1481.
